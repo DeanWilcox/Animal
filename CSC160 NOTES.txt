@@ -1,0 +1,17 @@
+CSC160 NOTES
+
+CHAPTER 1:
+Interpreter - A program that executes computer code
+Code - The text that represents a computer program
+Prompt - Informs the programmer that the interpreter is ready to accept commands
+Line - A row of text
+Statement - program instruction, usually on its own line
+Expression - code that returned a value when evaluated --- ex: (wage * hours * weeks) <-- expression that computes a #
+# denotes a comment
+Variable - stores values for later use
+Comments are not required in a program
+
+
+Chapter 2:
+
+

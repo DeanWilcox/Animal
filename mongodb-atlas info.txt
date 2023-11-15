@@ -1,0 +1,5 @@
+mongodb+srv://wilcoxdean93:<pw>@cluster0.twbrij2.mongodb.net/?retryWrites=true&w=majority
+
+npm install mongodb
+
+25RAlHuIJRg2y5HH

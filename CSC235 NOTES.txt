@@ -1,0 +1,15 @@
+CSC235 notes
+
+Hard link: Has one inode
+Symbolic (soft) link: Different inode between original file and link file.
+
+pwalpine1 - csc235student1
+
+-- alternative boot options -- 
+pxe - alternative place to boot from (t/s problem)
+nfs - boots from a network, allows the storage/retrieval of data over a network (normally run machine outsourced) less overhead
+>>!! CHATGPT DIFFERENCE BETWEEN THESE ^ !!<<
+
+
+
+
