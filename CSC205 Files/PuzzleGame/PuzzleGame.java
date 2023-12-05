@@ -1,3 +1,7 @@
+/**
+ * Main - Dean Wilcox 4 December 2023
+ */
+
 import javax.imageio.ImageIO;
 import javax.swing.ImageIcon;
 import javax.swing.JButton;
